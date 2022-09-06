@@ -3,7 +3,7 @@ import urllib.parse
 import boto3
 import os
 
-#Jenkins test deployment github-webhook/    
+#Jenkins test deployment github-webhook/         
 
 print('Loading function')
 
